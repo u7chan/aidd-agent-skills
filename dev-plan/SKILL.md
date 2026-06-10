@@ -36,20 +36,20 @@ description: 実装前に調査、要求整理、要件定義、設計、検証�
 
 ### 1. 調査して判断材料を作る
 
-`dev-plan/references/investigate.md` を参照。
+`references/01-investigate.md` を参照。
 
 ### 2. 要求・要件・ドメインを整理する
 
-`dev-plan/references/define.md` を参照。
+`references/02-define.md` を参照。
 
 ### 3. 設計案や ADR を詰める
 
-`dev-plan/references/design.md` を参照。
+`references/03-design.md` を参照。
 
 ### 4. PoC・スパイク・検証計画を作る
 
-`dev-plan/references/validate.md` を参照。
+`references/04-validate.md` を参照。
 
 ### 5. ただ壁打ちしたい
 
-`dev-plan/references/sparring.md` を参照。
+`references/05-sparring.md` を参照。
