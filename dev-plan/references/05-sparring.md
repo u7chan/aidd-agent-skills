@@ -8,15 +8,15 @@
 
 ## 初動
 
-TODO
+<TODO>
 
 ## 整理観点
 
-TODO
+<TODO>
 
 ## 出力
 
-TODO
+<TODO>
 
 ## ルール
 
