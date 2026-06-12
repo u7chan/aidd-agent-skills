@@ -42,7 +42,7 @@ description: 計画に基づく開発・品質確認・テスト、進捗管理�
 ### 2. 進捗管理表確認
 
 `progress tracker` を確認し、対象タスク、完了条件、更新箇所を特定する。
-`progress tracker` の形式と作成場所は TBD とし、既存規約がない場合は勝手に確定しない。
+既存規約がない場合、`progress tracker` はリポジトリ外の `/tmp/aidd-agent/task-{identifier}-{timestamp}.md` を既定の作成先とする。
 存在しない場合は、既存規約から判断できる場合のみ作成する。
 
 ### 3. 実装

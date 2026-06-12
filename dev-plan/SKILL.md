@@ -53,8 +53,8 @@ description: 実装前に調査、要求整理、要件定義、設計、検証�
 
 ### 5. 進捗管理表を作る
 
-`references/06-progress-tracking.md` を参照。
+`references/05-progress-tracking.md` を参照。
 
 ### 6. ただ壁打ちしたい
 
-`references/05-sparring.md` を参照。
+`references/06-sparring.md` を参照。
