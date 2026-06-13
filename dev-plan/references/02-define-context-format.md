@@ -11,7 +11,7 @@
 
 {このコンテキストが扱う責務を1〜2文で説明する}
 
-## Language
+## 用語
 
 ### Order
 
@@ -29,7 +29,7 @@ Avoid:
 - Bill
 - Payment Request
 
-## Flagged Ambiguities
+## あいまいな用語
 
 ### User vs Customer
 
@@ -64,7 +64,7 @@ User はシステム利用者全般を指すため使用しない。
 - 「何をするか」は記述しない。
 - 同義語は1つに統一する。
 - `Avoid` は避けるべき別名がある場合のみ記載する。
-- あいまいな用語は `Flagged Ambiguities` に記載する。
+- あいまいな用語は `あいまいな用語` に記載する。
 - 実装都合ではなく業務上の意味で定義する。
 
 ## 単一コンテキスト
@@ -93,15 +93,15 @@ src/
 ### CONTEXT-MAP.md
 
 ```md
-# Context Map
+# コンテキストマップ
 
-## Contexts
+## コンテキスト一覧
 
 - [Ordering](./src/ordering/CONTEXT.md) — 顧客の注文を受け付け、追跡する
 - [Billing](./src/billing/CONTEXT.md) — 請求書を生成し、支払いを処理する
 - [Fulfillment](./src/fulfillment/CONTEXT.md) — 倉庫のピッキングと出荷を管理する
 
-## Relationships
+## コンテキスト間の関係
 
 - Ordering → Fulfillment : OrderPlaced
 - Fulfillment → Billing : ShipmentDispatched

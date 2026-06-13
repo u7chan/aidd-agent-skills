@@ -1,4 +1,4 @@
-# ADR
+# ADR 形式
 
 ADR は、重要な設計上の意思決定とその理由を記録するための短いドキュメントである。
 
@@ -66,12 +66,12 @@ docs/adr/
 必要な場合のみ以下を追加してよい。
 
 ```md
-## Considered Options
+## 検討した選択肢
 
 - Option A
 - Option B
 
-## Consequences
+## 影響
 
 - 想定される影響
 ```
