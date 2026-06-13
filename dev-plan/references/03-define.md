@@ -38,7 +38,7 @@
 - 要求変更があった場合は、差分要求を起点にユースケース・業務ルール・未決事項を再評価する。
 - ドメイン用語が確定した場合は、必要に応じて `CONTEXT.md` の更新を提案または実施する。
 - 業務ルールは要件定義の出力に残し、`CONTEXT.md` には関連する用語定義だけを反映する。
-- `CONTEXT.md` / `CONTEXT-MAP.md` を作成・更新する場合は `references/02-define-context-format.md` を参照する。
+- `CONTEXT.md` / `CONTEXT-MAP.md` を作成・更新する場合は `references/03-define-context-format.md` を参照する。
 
 ## 出力
 

@@ -3,7 +3,7 @@
 ## 目的
 
 実装やレビューの再開時に、現在地・残作業・判断済み事項・未決定事項をすばやく把握できる進捗管理表を扱う。
-テンプレートは `05-progress-tracking-template.md` を使用する。
+テンプレートは `06-progress-tracking-template.md` を使用する。
 
 ## 初動
 
